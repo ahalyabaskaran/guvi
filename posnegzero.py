@@ -1,7 +1,7 @@
 ahalya=int(input())
 if(ahalya>0):
-  print(Positive)
+  print("Positive")
 elif(ahalya<0):
-  print(Negative)
+  print("Negative")
 else:
-  print(Zero)    
+  print("Zero")    
